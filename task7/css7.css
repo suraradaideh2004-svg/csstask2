@@ -12,14 +12,14 @@ margin-bottom: 30px;
 margin-left: 70px;
 }
 .box1{
-    box-shadow: 10px 10px 15px ;
+    box-shadow: 10px 10px 15px  ;
 }
 .box2{
 box-shadow: inset;
-box-shadow: 5px 5px 10px black;
+box-shadow: 5px 5px 10px black 0.6;
 }
 .box3{
 box-shadow:
-5px 5px 10px red,
--5px -5px 10px black;
+5px 5px 10px red 0.1,
+-5px -5px 10px black 0..5;
 }
