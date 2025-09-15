@@ -1,0 +1,51 @@
+body{
+    background-color: antiquewhite;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+margin:auto;
+background-color: rgb(105, 105, 230);
+opacity: 1;
+
+color: white;
+text-align: center;
+font-size: 20px;
+
+}
+.box2{
+    width: 100px;
+    height: 100px;
+margin:auto;
+background-color: rgb(105, 105, 230);
+opacity: 0.75;
+
+color: white;
+text-align: center;
+font-size: 20px;
+
+}
+.box3{
+    width: 100px;
+    height: 100px;
+margin:auto;
+background-color: rgb(105, 105, 230);
+opacity: 0.5;
+
+color: white;
+text-align: center;
+font-size: 20px;
+
+}
+.box4{
+    width: 100px;
+    height: 100px;
+margin:auto;
+background-color: rgb(105, 105, 230);
+opacity: 0.25;
+
+color: white;
+text-align: center;
+font-size: 20px;
+
+}
