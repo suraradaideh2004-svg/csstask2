@@ -1,0 +1,12 @@
+div{
+    display: block;
+    background-color: plum;
+    border: 5px solid purple;
+    color: black;
+text-align: center;
+margin: 20px;
+}
+h1{
+    color: black;
+    text-align: center;
+}
