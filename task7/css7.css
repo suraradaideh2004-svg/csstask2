@@ -1,0 +1,25 @@
+
+
+div{ 
+
+color: black;
+text-align:center ;
+border-radius: 25px;
+background-color: rgb(223, 196, 59);
+width: 100px;
+height: 100px;
+margin-bottom: 30px;
+margin-left: 70px;
+}
+.box1{
+    box-shadow: 10px 10px 15px ;
+}
+.box2{
+box-shadow: inset;
+box-shadow: 5px 5px 10px black;
+}
+.box3{
+box-shadow:
+5px 5px 10px red,
+-5px -5px 10px black;
+}
