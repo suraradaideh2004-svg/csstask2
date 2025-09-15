@@ -1,0 +1,50 @@
+h1{
+ color: black;
+ font-size: 30px;
+text-align: center;
+
+
+}
+.box1{
+        margin: 50px 100px;
+    width: 50%;
+    height: 200px;
+    color:black;
+    overflow: visible;
+    font-size: 20px;
+    border:  8px solid black;
+    
+
+}
+.box2{
+
+         width: 50%;
+    height: 200px;
+    color:black;
+    overflow: hidden;
+    font-size: 20px;
+        border:  8px solid black;
+       
+       margin: 50px 100px;
+    
+}
+.box3{
+
+         width: 50%;
+    height: 200px;
+    color:black;
+    overflow: scroll;
+    font-size: 20px;
+        border:  8px solid black;
+              margin: 50px 100px;
+}
+.box4{
+       margin: 50px 100px;
+     width: 50%;
+    height: 200px;
+    color:black;
+    overflow: auto;
+    font-size: 20px;
+        border:  8px solid black;
+
+}

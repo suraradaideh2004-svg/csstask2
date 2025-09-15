@@ -4,7 +4,7 @@ body{
 .box1{
     width: 100px;
     height: 100px;
-margin:auto;
+margin-left:auto;
 background-color: rgb(105, 105, 230);
 opacity: 1;
 
