@@ -1,0 +1,42 @@
+.box1{
+    color:black;
+    border:5px solid black;
+    background-color: beige;
+}
+.box2{
+    color:black;
+    border:5px dashed red;
+    background-color: beige;
+}
+.box3{
+    color:black;
+    border:5px  dotted blue;
+    background-color: beige;
+}
+.box4{
+    color:black;
+    border:5px double purple;
+    background-color: beige;
+}
+.box5{
+    
+    color:black;
+    border:5px groove fuchsia;
+    background-color: beige;
+}
+.box6{
+    color:black;
+    border:5px ridge green;
+    background-color: beige;
+}
+.box7{
+    color:black;
+    border:5px inset yellow;
+    background-color: beige;
+}
+
+.box8{
+    color:black;
+    border:5px outset brown;
+    background-color: beige;
+}
