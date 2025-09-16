@@ -1,0 +1,32 @@
+div{
+      width: 150px;
+  height: 150px;
+  position: relative;
+}
+.box1{
+    
+z-index: 1;
+border:5px solid red;
+
+}
+.box2{
+    
+z-index: 2;
+border:5px solid rgb(212, 255, 0);
+margin-top: -100px;   
+  margin-left: 40px;  
+}
+.box3{
+
+z-index: 3;
+border:5px solid green;
+margin-top: -100px;
+  margin-left: 80px;
+
+}
+.box4{
+z-index: 4;
+border:5px solid blue;
+margin-top: -100px;
+  margin-left: 120px;
+}
