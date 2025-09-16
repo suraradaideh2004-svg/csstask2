@@ -1,0 +1,14 @@
+.box{
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    color: black;
+    border: 20px solid;
+    border-image-source:url(https://t4.ftcdn.net/jpg/02/34/09/25/240_F_234092554_wF3dTfJtJHS8AIkJ8ouIdLiDHgL3iodU.jpg);
+    border-image-width: 20px;  
+    border-image-repeat: round;
+    border-image-slice: 30;   
+    background-color: azure;     
+  }
